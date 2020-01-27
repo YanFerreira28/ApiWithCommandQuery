@@ -1,0 +1,9 @@
+C:\Users\Code\source\repos\DDDCQRS\DDDCQRS.Domain\bin\Debug\netcoreapp2.1\DDDCQRS.Domain.deps.json
+C:\Users\Code\source\repos\DDDCQRS\DDDCQRS.Domain\bin\Debug\netcoreapp2.1\DDDCQRS.Domain.dll
+C:\Users\Code\source\repos\DDDCQRS\DDDCQRS.Domain\bin\Debug\netcoreapp2.1\DDDCQRS.Domain.pdb
+C:\Users\Code\source\repos\DDDCQRS\DDDCQRS.Domain\obj\Debug\netcoreapp2.1\DDDCQRS.Domain.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\DDDCQRS\DDDCQRS.Domain\obj\Debug\netcoreapp2.1\DDDCQRS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\DDDCQRS\DDDCQRS.Domain\obj\Debug\netcoreapp2.1\DDDCQRS.Domain.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\DDDCQRS\DDDCQRS.Domain\obj\Debug\netcoreapp2.1\DDDCQRS.Domain.AssemblyInfo.cs
+C:\Users\Code\source\repos\DDDCQRS\DDDCQRS.Domain\obj\Debug\netcoreapp2.1\DDDCQRS.Domain.dll
+C:\Users\Code\source\repos\DDDCQRS\DDDCQRS.Domain\obj\Debug\netcoreapp2.1\DDDCQRS.Domain.pdb
